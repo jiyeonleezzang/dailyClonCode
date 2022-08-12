@@ -66,7 +66,7 @@ ul {
     font-size: 64px;
     margin: -5px;
 }
-.top-content p {
+.top-content span {
     color: white;
     opacity: 0.6;
     font-size: 20px;
@@ -79,6 +79,9 @@ ul {
 }
 .sub-title-float {
     text-align: center;
+}
+.sub-title-float span{
+    line-height: 5;
 }
 
 hr{
@@ -129,6 +132,14 @@ p.sub-content{
     margin-top: 20px;
 }
 
+.white-button{
+    padding: 18px 30px;
+    color: black;
+    background-color: white;
+    border: 0;
+    margin-top: 20px;
+}
+
 footer{
     text-align: center;
     margin-top: 50px;
@@ -152,4 +163,11 @@ nav ul li {
 
 nav .black-button {
     margin-top: 0;
+}
+
+a {
+    text-decoration: none;
+}
+header h1 a{
+    color: black;
 }

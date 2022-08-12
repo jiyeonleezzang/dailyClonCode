@@ -6,4 +6,4 @@
 
 ## 참고 사이트
 
-https://business-starter-template.webflow.io/https://www.youtube.com/watch?v=gZBKGn0wQXU&list=PLB7CpjPWqHOtYP7P_0Ls9XNed0NLvmk
+https://business-starter-template.webflow.io
